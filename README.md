@@ -1,4 +1,4 @@
-# 1. INC 5000 Companies Analysis.
+# 1. Introduction
 
 Hello, This project contains an analysis of INC 5000 Companies using SQL queries
 
