@@ -21,7 +21,7 @@ SQL concepts such as;
 - Aggregate functions- Count, Sum, Avg etc
 - Common table expressions
 - Subquery
-- 𝗦𝗼𝗿𝘁𝗶𝗻𝗴 & 𝗚𝗿𝗼𝘂𝗽𝗶𝗻𝗴- Group By, Order By, Having
+- Sorting & Grouping- Group By, Order By, Having
 - Retrieval and Filtering- Select, From, Where, Limit, Case, And etc
 
 # 4. Data transformation
@@ -49,7 +49,10 @@ Created queries on my SQL Workbench, to answer the objectives listed above. Resu
 
 
 
-# 6. Recommendation
+# 6. Interpretation of Findings
+Though, Business Products & Services and Computer Hardware are the most and least represented with industry count of 491 and 32 indusry respectively, Logistics & Transportation saw the largest average groth of 731.49. Results shows that many copanies' revenue were increased while they reduced staff with Alpha Premier having the highest growth of approximately 126%.
+
+There is high rate of staff turnover across the industries and Human Resources industry tops the list with average staff turnover of 403.10.
 
 
 # 7. Final Notes
